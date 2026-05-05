@@ -1,7 +1,6 @@
 .footer
 {
     background-color: #2E2F42;
-    padding-block: 100px;
 }
 
 .footer-logo-link
@@ -9,6 +8,8 @@
     color: #4D5AE5;
     font-size: 18px;
     line-height: 1.3;
+    font-weight: 700;
+    letter-spacing: 0.03em;
 }
 
 .footer-logo-part
@@ -16,6 +17,8 @@
     color: #F4F4FD;
     font-size: 18px;
     line-height: 1.3;
+    font-weight: 700;
+    letter-spacing: 0.03em;
 }
 
 .footer-text
@@ -23,4 +26,5 @@
     color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
