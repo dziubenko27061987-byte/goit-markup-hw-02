@@ -1,1 +1,16 @@
-style.css
+@import './common.css';
+@import './header.css';
+@import './hero.css';
+@import './features.css';
+@import './team.css';
+@import './portfolio.css';
+@import './footer.css';
+
+
+
+
+
+
+/*font-family: "Roboto", sans-serif;*/
+
+/*font-family: "Raleway", sans-serif;*/
