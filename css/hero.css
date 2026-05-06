@@ -5,6 +5,7 @@
     color: #FFFFFF;
     font-size: 56px;
     letter-spacing: 0.02em;
+    line-height: 1.7;
 }
 
 .hero-button
@@ -17,7 +18,7 @@
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.hero-button:hover,
+.hero-button:hover
 {
     background-color: #404bbf;
 }

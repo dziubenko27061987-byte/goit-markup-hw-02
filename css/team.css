@@ -1,10 +1,20 @@
+
+.team
+{
+    background-color: #F4F4FD;
+}
+
+.card-team
+{
+    background-color: #F4F4FD;
+}
 .our-team
 {
     text-align: center;
     color: #2E2F42;
     font-size: 36px;
     line-height: 1.1;
-    letter-spacing: 0.02em.
+    letter-spacing: 0.02em;
 }
 
 .name-team
@@ -23,4 +33,5 @@
     font-size: 16px;
     line-height: 1.5;
     text-align: center;
+    letter-spacing: 0.02em;
 }
